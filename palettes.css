@@ -1,0 +1,43 @@
+/* Midnight */
+:root[theme="midnight"] {
+  --bg: #0D0F14;
+  --surface: #1A1D27;
+  --accent: #5C6BC0;
+  --text: #E8EAF6;
+}
+
+/* Cream */
+:root[theme="cream"] {
+  --bg: #FAF7F2;
+  --surface: #F0EBE3;
+  --accent: #C17D3C;
+  --text: #2C2416;
+}
+
+/* Neon Noir */
+:root[theme="neon-noir"] {
+  --bg: #111111;
+  --surface: #1E1E1E;
+  --accent: #39FF14;
+  --text: #F5F5F5;
+}
+
+/* Ocean */
+:root[theme="ocean"] {
+  --bg: #E8F4FD;
+  --surface: #FFFFFF;
+  --accent: #0077B6;
+  --text: #03045E;
+}
+```
+
+---
+
+## Repo 4: `interview-questions`
+
+**Commit 1** — `README.md`:
+```
+# Interview questions
+
+Short, honest answers to common tech interview questions.
+No fluff.
